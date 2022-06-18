@@ -17,5 +17,7 @@ body{
     width: 80%;
 }
 .top-banner{
-    background-image: url("background/mainback.jpg");
+    background-image: url("back.jpg");
+    border: 1px solid red;
+    
 }
