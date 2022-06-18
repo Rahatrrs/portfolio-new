@@ -16,3 +16,6 @@ body{
 .half-width img{
     width: 80%;
 }
+.top-banner{
+    background-image: url("background/mainback.jpg");
+}
