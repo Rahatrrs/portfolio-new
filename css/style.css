@@ -61,3 +61,7 @@ h3{
     padding: 10px 20px;
     border-radius: 5px;
 }
+.navbar .container-fluid ul li a,
+.nav-link{
+    color: rgb(175, 6, 197);
+}
